@@ -2,10 +2,10 @@
 --cor-de-fundo:#0c0430;
 --branco:#fff;
 --fort-principal:"poppins"
---font-secundaria:"SSSSssssassssss"
-secundaria
+--font-secundaria:var(--cor-de-fundo)"
+--preto:#0a0a0a;
 }
-
+s
 
 
 
